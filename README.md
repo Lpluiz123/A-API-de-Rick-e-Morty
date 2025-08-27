@@ -21,3 +21,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **Paginação:** Permite navegar entre as diferentes páginas de personagens da API.
 
 ---
+👨‍💻 Autor
+Luiz Fellipe
