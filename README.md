@@ -2,7 +2,6 @@
 
 Este é um projeto simples que consome a API oficial de Rick and Morty para exibir uma lista de personagens, suas informações e a paginação. 
 
-![Imagem do projeto com a API de Rick e Morty](https://i.imgur.com/gK49B0E.png)
 
 ---
 
